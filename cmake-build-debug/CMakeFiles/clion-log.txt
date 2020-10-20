@@ -1,0 +1,4 @@
+"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\lbxy\jvm\project\troyJvm
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/lbxy/jvm/project/troyJvm/cmake-build-debug

@@ -1,0 +1,166 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 12.00.21005.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 12.00.21005.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_0bf08\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_0bf08.dir\build.make /nologo -L                  CMakeFiles\cmTC_0bf08.dir\build
+Building C object CMakeFiles/cmTC_0bf08.dir/testCCompiler.c.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe" @C:\Users\caoqiang\AppData\Local\Temp\nm18CA.tmp
+testCCompiler.c
+Linking C executable cmTC_0bf08.exe
+	"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_0bf08.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- "D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe" /nologo @CMakeFiles\cmTC_0bf08.dir\objects1.rsp @C:\Users\caoqiang\AppData\Local\Temp\nm1A42.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f8326\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_f8326.dir\build.make /nologo -L                  CMakeFiles\cmTC_f8326.dir\build
+Building C object CMakeFiles/cmTC_f8326.dir/CMakeCCompilerABI.c.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe" @C:\Users\caoqiang\AppData\Local\Temp\nm21F1.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_f8326.exe
+	"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f8326.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- "D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe" /nologo @CMakeFiles\cmTC_f8326.dir\objects1.rsp @C:\Users\caoqiang\AppData\Local\Temp\nm2250.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_e9082\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_e9082.dir\build.make /nologo -L                  CMakeFiles\cmTC_e9082.dir\build
+Building CXX object CMakeFiles/cmTC_e9082.dir/testCXXCompiler.cxx.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe" @C:\Users\caoqiang\AppData\Local\Temp\nm2414.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_e9082.exe
+	"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e9082.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- "D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe" /nologo @CMakeFiles\cmTC_e9082.dir\objects1.rsp @C:\Users\caoqiang\AppData\Local\Temp\nm2473.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_bb87a\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_bb87a.dir\build.make /nologo -L                  CMakeFiles\cmTC_bb87a.dir\build
+Building CXX object CMakeFiles/cmTC_bb87a.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe" @C:\Users\caoqiang\AppData\Local\Temp\nm2666.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_bb87a.exe
+	"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bb87a.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- "D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe" /nologo @CMakeFiles\cmTC_bb87a.dir\objects1.rsp @C:\Users\caoqiang\AppData\Local\Temp\nm27AF.tmp
+
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/lbxy/jvm/project/troyJvm/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_421d5\fast && 	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_421d5.dir\build.make /nologo -L                  CMakeFiles\cmTC_421d5.dir\build
+Building CXX object CMakeFiles/cmTC_421d5.dir/feature_tests.cxx.obj
+	"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe" @C:\Users\caoqiang\AppData\Local\Temp\nm2A00.tmp
+feature_tests.cxx
+Linking CXX executable cmTC_421d5.exe
+	"D:\JetBrains\CLion 203.4203.24\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_421d5.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- "D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe" /nologo @CMakeFiles\cmTC_421d5.dir\objects1.rsp @C:\Users\caoqiang\AppData\Local\Temp\nm2A6E.tmp
+
+
+
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_variable_templates
